@@ -11,7 +11,7 @@ Used Softmax to convert output to a probability distribution over classes.
 Successfully recognized handwritten digits. 🖐️✍️
 💡 Takeaways: This project showcases the power of neural networks in recognizing handwritten digits, a fundamental task in computer vision. It's a great stepping stone for more complex image recognition tasks. #MachineLearning #NeuralNetworks #ComputerVision #MNIST
 
-Curious to see more? Check out the project details here [GitHub Repository Link].
+Curious to see more? Check out the project details here (https://github.com/arhamneyaz/).
 
 Kudos to the team for this incredible achievement! 🙌👏
 
